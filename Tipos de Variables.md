@@ -18,7 +18,7 @@ return 0;
 }
 ```
 ## Entrada y salida de datos en Strings
-String es un tipo de dato mas complejo que por ejemplo int, float o char. A la hora de guardar datos que puede introducir alguien por el terminal debemos hacerlo utilizando getline().
+String es un tipo de dato mas complejo que por ejemplo int, float o char. A la hora de guardar datos que puede introducir alguien por el terminal debemos hacerlo utilizando **getline()**.
 La estructura de este sera: getline(cin, nombre de la variable donde guardemos nuestra cadena de texto);
 Para mostrar estas cadenas de texto lo unico que deberemos hacer es un cout al igual que con las variables de tipo int, float y char.
 Veamos un ejemplo:
