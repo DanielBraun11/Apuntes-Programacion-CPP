@@ -41,7 +41,7 @@ return 0;
 }
 ```
 # Funciones del tipo String
-##size o lenght
+## size o lenght
 Ambas funciones devuelven el tamaño del dato que esta almacenado en la variable string. Este tamaño puede ser de una palabra solo o de un texto. En el caso del texto, contará también los espacion ' ' entre las palabras que lo componen. Para su uso haremos .size() al nombre de la variable de la que queramos saber el tamaño: nombreVariable.size()
 ```c++
 #include<iostream>
@@ -57,7 +57,7 @@ int main(){
     return 0;
 }
 ```
-##resize
+## resize
 Modifica el tamaño a mayor o menor. Cuando modificas el tamaño de un string a uno menor, pierdes información del dato guardado que se reduce al tamaño nuevo que indicas al llamar a la funcion .resize(nuevoTamaño). Sin embargo, si modificas el tamaño a uno mayor, el contenido no se ve alterado y lo unico que cambia es el tamaño de esta variable. Veamos un ejemplo:
 ```c++
 #include<iostream>
@@ -82,7 +82,7 @@ int main(){
     return 0;
 }
 ```
-##clear
+## clear
 Borra el contenido completo almacenado en una variable string
 ```c++
 #include<iostream>
