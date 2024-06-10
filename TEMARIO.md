@@ -2,4 +2,4 @@
 
 Tipos de Variables
 
- -[String]([Tipos%20de%20Variables.md#string])
+ - [String](teoria/String.md#string)
