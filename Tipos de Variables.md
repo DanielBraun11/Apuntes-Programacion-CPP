@@ -1,4 +1,4 @@
-# Tipos de Variables
+ # Tipos de Variables
 ## String
 La variable string nos sirve para almacenar cadenas de texto, ya sean palabras o frases.
 Para crear una variable string solo pondremos la palabra reservada 'string' acompañada del nombre que le queramos poner a la variable.
@@ -284,8 +284,8 @@ int main(){
     string cadena1 {"Hola Mundo"};
     string cadena2 = "";
 
-    cout<<cadena1.empty()<<endl;
-    cout<<cadena2.empty()<<endl;
+    cout<<cadena1.empty()<<endl;    //->0
+    cout<<cadena2.empty()<<endl;    //->1
     
     //Se usa como booleano
     if(cadena1.empty()){
