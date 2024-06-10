@@ -32,13 +32,13 @@ int main(){
     array<int,4> almacen1 {1,2,3,4}; //Inicializado rellenado
     array<float,3> almacen2 {}; //Inicializado vacio
 
-    //Para rellenar usamos bucles for(; ;)
+    //Para rellenar usamos bucles for( ; ; )
     for(int i{0} ; i<almacen2.size() ; i++){
         cout<<"Dato "<<i<<": ";
         cin>>almacen2.at(i);
     }
 
-    //Para mostrar los datos usamos bucles for() también
+    //Para mostrar los datos usamos bucles for( : ) también
     for(float numero : almacen2){
         cout<<numero<<", ";
     }
