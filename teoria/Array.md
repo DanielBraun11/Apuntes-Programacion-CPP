@@ -1,6 +1,6 @@
 # Array
 El array es un tipo de dato contenedor. Consiste en una variable que contiene datos de otro tipo de datos concreto y con un tamaño especificado y limitado.
-Para hacer uso de este tipo de dato debemos importar su libreria #include<array>. Si no ponemos la libreria nos dará un error al compilar nuestro código.
+Para hacer uso de este tipo de dato debemos importar su libreria #include <array>. Si no ponemos la libreria nos dará un error al compilar nuestro código.
 
 ![Texto alternativo](https://i0.wp.com/somoshackersdelaprogramacion.es/wp-content/uploads/2022/05/arrays01.jpg?resize=500%2C189&ssl=1)
 
