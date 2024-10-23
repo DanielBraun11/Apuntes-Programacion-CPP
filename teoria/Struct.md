@@ -20,7 +20,7 @@ Definir una estructura para representar una persona
 #include <string>
 
 struct Persona {
-    std::string nombre;
+    string nombre;
     int edad;
     float altura;
 };
@@ -35,9 +35,9 @@ int main() {
     persona1.altura = 1.75;
 
     // Mostrar los valores
-    std::cout << "Nombre: " << persona1.nombre << std::endl;
-    std::cout << "Edad: " << persona1.edad << std::endl;
-    std::cout << "Altura: " << persona1.altura << " metros" << std::endl;
+    cout << "Nombre: " << persona1.nombre << endl;
+    cout << "Edad: " << persona1.edad << endl;
+    cout << "Altura: " << persona1.altura << " metros" << endl;
 
     return 0;
 }
@@ -77,11 +77,11 @@ int main() {
     producto2.stock = 50;
 
     // Mostrar los datos de los productos
-    std::cout << "Producto 1: " << producto1.nombre << ", Precio: $" 
-              << producto1.precio << ", Stock: " << producto1.stock << std::endl;
+    cout << "Producto 1: " << producto1.nombre << ", Precio: " 
+              << producto1.precio << "€, Stock: " << producto1.stock << endl;
 
-    std::cout << "Producto 2: " << producto2.nombre << ", Precio: $" 
-              << producto2.precio << ", Stock: " << producto2.stock << std::endl;
+    cout << "Producto 2: " << producto2.nombre << ", Precio: " 
+              << producto2.precio << "€, Stock: " << producto2.stock << endl;
 
     return 0;
 }
