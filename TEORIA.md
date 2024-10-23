@@ -6,3 +6,4 @@ Tipos de Variables
  - [Array](teoria/Array.md#array)
  - [Vector](teoria/Vector.md#vector)
  - [Struct](teoria/Struct.md#struct)
+ - [Set](teoria/Set.md#set)
