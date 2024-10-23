@@ -17,3 +17,88 @@ int main(){
 }
 ```
 ## Entrada y salida de datos
+### Entrada
+```c++
+#include <iostream>
+#include <vector>
+
+int main() {
+    vector<int> numeros;
+    int cantidad, valor;
+
+    cout << "¿Cuántos números quieres ingresar? ";
+    cin >> cantidad;
+
+    for (int i = 0; i < cantidad; i++) {
+        cout << "Introduce el número " << i + 1 << ": ";
+        cin >> valor;
+        numeros.push_back(valor);  // Agregar valor al vector
+    }
+
+    cout << "Números en el vector: ";
+    for (int i = 0; i < numeros.size(); i++) {
+        cout << numeros[i] << " ";  // Mostrar los números almacenados
+    }
+    
+    return 0;
+}
+```
+
+### Salida
+```c++
+#include <iostream>
+#include <vector>
+#include <string>
+
+int main() {
+    vector<std::string> palabras;
+    int cantidad;
+    string palabra;
+
+    cout << "¿Cuántas palabras quieres ingresar? ";
+    cin >> cantidad;
+
+    // Entrada de palabras
+    for (int i = 0; i < cantidad; i++) {
+        cout << "Introduce la palabra " << i + 1 << ": ";
+        cin >> palabra;
+        palabras.push_back(palabra);  // Agregar palabra al vector
+    }
+
+    // Salida de palabras
+    cout << "Palabras en el vector: ";
+    for (int i = 0; i < palabras.size(); i++) {
+        cout << palabras[i] << " ";  // Mostrar las palabras
+    }
+
+    return 0;
+}
+```
+
+## Funciones para vectores
+1. Push back
+Esta función agrega un elemento al final del vector.
+```c++
+#include <iostream>
+#include <vector>
+
+int main() {
+    std::vector<int> numeros;
+    numeros.push_back(5);  // Añade el número 5 al final
+    numeros.push_back(10); // Añade el número 10 al final
+
+    std::cout << "Vector: ";
+    for (int i = 0; i < numeros.size(); i++) {
+        std::cout << numeros[i] << " ";  // Muestra: 5 10
+    }
+
+    return 0;
+}
+```
+2. At
+Puedes acceder a los elementos del vector usando el índice ([]) o la función at().
+```c++
+int valor1 = numeros[0];  // Accede al primer elemento (5)
+int valor2 = numeros.at(1);  // Accede al segundo elemento (10)
+```
+
