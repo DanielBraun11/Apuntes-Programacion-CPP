@@ -83,13 +83,13 @@ Esta función agrega un elemento al final del vector.
 #include <vector>
 
 int main() {
-    std::vector<int> numeros;
+    vector<int> numeros;
     numeros.push_back(5);  // Añade el número 5 al final
     numeros.push_back(10); // Añade el número 10 al final
 
-    std::cout << "Vector: ";
+    cout << "Vector: ";
     for (int i = 0; i < numeros.size(); i++) {
-        std::cout << numeros[i] << " ";  // Muestra: 5 10
+        cout << numeros[i] << " ";  // Muestra: 5 10
     }
 
     return 0;
@@ -115,9 +115,9 @@ numeros.pop_back();  // Elimina el 10 (último)
 La función empty() devuelve true si el vector no tiene elementos.
 ```c++
 if (numeros.empty()) {
-    std::cout << "El vector está vacío." << std::endl;
+    cout << "El vector está vacío." << endl;
 } else {
-    std::cout << "El vector NO está vacío." << std::endl;
+    cout << "El vector NO está vacío." << endl;
 }
 ```
 ## Clear
