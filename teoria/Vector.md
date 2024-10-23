@@ -76,7 +76,7 @@ int main() {
 ```
 
 ## Funciones para vectores
-1. Push back
+## Push back
 Esta función agrega un elemento al final del vector.
 ```c++
 #include <iostream>
@@ -95,10 +95,45 @@ int main() {
     return 0;
 }
 ```
-2. At
+## At
 Puedes acceder a los elementos del vector usando el índice ([]) o la función at().
 ```c++
 int valor1 = numeros[0];  // Accede al primer elemento (5)
 int valor2 = numeros.at(1);  // Accede al segundo elemento (10)
 ```
+## Size
+La función size() devuelve el número de elementos en el vector.
+```c++
+cout << "El vector tiene " << numeros.size() << " elementos." << endl;
+```
+## Pop Back
+Esta función elimina el último elemento del vector.
+```c++
+numeros.pop_back();  // Elimina el 10 (último)
+```
+## Empty
+La función empty() devuelve true si el vector no tiene elementos.
+```c++
+if (numeros.empty()) {
+    std::cout << "El vector está vacío." << std::endl;
+} else {
+    std::cout << "El vector NO está vacío." << std::endl;
+}
+```
+## Clear
+Esta función vacía completamente el vector.
+```c++
+numeros.insert(numeros.begin(), 3);  // Inserta el número 3 en la primera posición
+```
+## Insert
+Puedes insertar un elemento en cualquier posición del vector usando la función insert().
+```c++
+numeros.insert(numeros.begin(), 3);  // Inserta el número 3 en la primera posición
+```
+## Erase
+Puedes eliminar un elemento de una posición determinada usando erase().
+```c++
+numeros.erase(numeros.begin());  // Elimina el primer elemento
+```
+
 
