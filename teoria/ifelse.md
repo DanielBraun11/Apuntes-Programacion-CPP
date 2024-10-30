@@ -1,7 +1,7 @@
 # Condicionales - if else
 
 Un programa donde no hubiera control de flujo tendría esta estructura:
-<p align="center">
+
 ![MensajeEntradaInt](https://github.com/DanielBraun11/Apuntes-Programacion-CPP/blob/main/fotosCPP/ifelse%201.png)
 
 Por ejemplo
