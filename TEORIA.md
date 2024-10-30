@@ -8,3 +8,6 @@ Tipos de Variables
  - [Vector](teoria/Vector.md#vector)
  - [Struct](teoria/Struct.md#struct)
  - [Set](teoria/Set.md#set)
+
+Entrada y Salida de datos
+ - [Entrada y Salida](teoria/Entrada&Salida.md#entrada&salida)
