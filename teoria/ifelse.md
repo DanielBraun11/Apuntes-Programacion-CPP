@@ -2,8 +2,7 @@
 
 Un programa donde no hubiera control de flujo tendría esta estructura:
 <p align="center">
-<img src="./images/secuencial.png" alt="Secuencial"/>
-</p>
+![MensajeEntradaInt](https://github.com/DanielBraun11/ApuntesProgramacionCPP/blob/main/fotosCPP/ifelse 1.png)
 
 Por ejemplo
 
