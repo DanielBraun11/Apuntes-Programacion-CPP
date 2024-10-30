@@ -38,9 +38,8 @@ if(condicion){
 Accion 3
 Accion 4
 ```
-<p align="center">
-<img src="./images/ifsimple.png" alt="if"/>
-</p>
+
+![MensajeEntradaInt](https://github.com/DanielBraun11/Apuntes-Programacion-CPP/blob/main/fotosCPP/ifelse%203.png)
 
 Un ejemplo sería
 
@@ -79,9 +78,7 @@ Accion 3
 Accion 4
 ```
 
-<p align="center">
-<img src="./images/ifelse.png" alt="ifelse"/>
-</p>
+![MensajeEntradaInt](https://github.com/DanielBraun11/Apuntes-Programacion-CPP/blob/main/fotosCPP/ifelse%204.png)
 
 Un ejemplo sería
 
@@ -127,9 +124,7 @@ Accion 3
 Accion 4
 ```
 
-<p align="center">
-<img src="./images/ifelseif.png" alt="ifelseif"/>
-</p>
+![MensajeEntradaInt](https://github.com/DanielBraun11/Apuntes-Programacion-CPP/blob/main/fotosCPP/ifelse%205.png)
 
 Un ejemplo sería
 
