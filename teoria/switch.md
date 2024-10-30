@@ -24,9 +24,7 @@ swtich(var_name){
 
 El siguiente diagrama de flujo expresa este funcionamiento
 
-<p align="center">
-<img src="./images/switch.png" alt="Switch-case"/>
-</p>
+![MensajeEntradaInt](https://github.com/DanielBraun11/Apuntes-Programacion-CPP/blob/main/fotosCPP/switch1.png)
 
 La opción `default` no es necesaria.
 
