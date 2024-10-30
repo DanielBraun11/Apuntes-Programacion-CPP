@@ -20,9 +20,8 @@ int main() {
 ``` 
 
 Sin embargo, lo habitual en un programa es que se tome distintos caminos en función del valor que puedan tener los datos, por ejemplo.
-<p align="center">
-<img src="./images/if.png" alt="if"/>
-</p>
+
+![MensajeEntradaInt](https://github.com/DanielBraun11/Apuntes-Programacion-CPP/blob/main/fotosCPP/ifelse%202.png)
 
 Eso se consigue con los condicionales. 
 
