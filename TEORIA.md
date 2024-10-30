@@ -2,6 +2,7 @@
 
 Tipos de Variables
 
+ - [Tipos Simples/Primitivos](teoria/TiposSimples.md#tipossimples)
  - [String](teoria/String.md#string)
  - [Array](teoria/Array.md#array)
  - [Vector](teoria/Vector.md#vector)
