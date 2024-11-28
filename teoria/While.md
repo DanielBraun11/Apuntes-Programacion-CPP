@@ -6,7 +6,7 @@ En particular, el bucle `while` permite que un conjuntos de instrucciones se rep
 
 Aquí vemos cuál sería su diagrama de flujo:
 
-
+![Texto alternativo](https://i0.wp.com/somoshackersdelaprogramacion.es/wp-content/uploads/2022/05/arrays01.jpg?resize=500%2C189&ssl=1)
 
 Mientras la condicion es verdadera, se ejecutan las acciones _acción 1_ y _acción 2_. Cuando la condición es falsa el programa sigue normalmente.
 
