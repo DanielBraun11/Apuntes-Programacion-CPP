@@ -17,5 +17,6 @@ Control de flujo
  - [switch](teoria/switch.md#switch)
 
 Bucles
- - [if, if-else, if-else-if-else](teoria/ifelse.md#ifelse)
- - [switch](teoria/switch.md#switch)
+ - [for](teoria/For.md#for)
+   - [for-elem](teoria/ForElem.md#forelem)   
+ - [while](teoria/While.md#while)
