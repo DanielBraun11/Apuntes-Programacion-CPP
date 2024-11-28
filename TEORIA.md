@@ -29,4 +29,7 @@
 
 ## PROGRAMACIÓN II
 
-- [Programación Orintada a Objetos (POO)](teoria/String.md#string)
+### Programación Orientada a Objetos
+- [Clases](teoria/Clases.md#clases)
+- [Miembros Públios y Privados](teoria/TiposMiembros.md#tiposmiembros)
+- [Construtor](teoria/Constructor.md#constructor)
