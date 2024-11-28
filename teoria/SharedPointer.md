@@ -12,7 +12,7 @@ Aquí vamos a estudiar dos tipos de punteros inteligentes, ambos introducidos de
 
 Una variable de tipo `shared_ptr` es una referencia a un objeto que solo existe en el ámbito de la variable, y que puede ser referenciado por otras variables.
 
-Por ejemplo, si queremos un puntero a un tipo `std::string` y otro a tipo `int`.
+Por ejemplo, si queremos un puntero a un tipo `string` y otro a tipo `int`.
 
 ```cpp
 #include <iostream>
