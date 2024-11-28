@@ -27,6 +27,11 @@
  - [Funciones sin parámetros](teoria/FunSinParam.md#funconparam)
  - [Funciones con parámetros](teoria/FunConParam.md#funsinparam)
 
+### Punteros Inteligentes
+ - [Unique Pointers](teoria/UniquePointers.md#uniquepointers)
+ - [Shared Pointers](teoria/SharedPointers.md#sharedpointers)
+
+   
 ## PROGRAMACIÓN II
 
 ### Programación Orientada a Objetos
