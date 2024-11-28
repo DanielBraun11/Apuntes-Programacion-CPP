@@ -15,3 +15,7 @@ Entrada y Salida de datos
 Control de flujo
  - [if, if-else, if-else-if-else](teoria/ifelse.md#ifelse)
  - [switch](teoria/switch.md#switch)
+
+Bucles
+ - [if, if-else, if-else-if-else](teoria/ifelse.md#ifelse)
+ - [switch](teoria/switch.md#switch)
