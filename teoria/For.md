@@ -17,9 +17,10 @@ Por ejemplo:
 
 ```cpp
 #include <iostream>
+using namespace std;
 
 int main() {
-  for(int cont{3}; cont <= 10; cont = cont + 2){
+  for(int cont{3} ; cont <= 10 ; cont = cont + 2){
     cout << "El contador vale " << cont <<"\n";
   }
 
@@ -65,9 +66,10 @@ Veamos las tres partes en este ejemplo:
 
 ```cpp
 #include <iostream>
+using namespace std;
 
 int main() {
-  for(int cont{10}; cont > 1; cont = cont / 2){
+  for(int cont{10} ; cont > 1 ; cont = cont / 2){
     cout << "El contador vale " << cont <<"\n";
   }
 
@@ -81,9 +83,10 @@ int main() {
 
 ```cpp
 #include <iostream>
+using namespace std;
 
 int main() {
-  for(int cont{0}; cont < 10; cont = cont * 2){
+  for(int cont{0} ; cont < 10 ; cont = cont * 2){
     cout << "El contador vale " << cont <<"\n";
     cont++;
   }
@@ -104,12 +107,13 @@ Se ha visto que el modo más sencillo de recorrer `string`, `array`, `set`,y `ve
 ```cpp
 #include <iostream>
 #include <array>
+using namespace std;
 
 int main() {
 
-  std::array<int,5> arr{1,3,4,2,5};
+  array<int,5> arr{1,3,4,2,5};
 
-  for(int i{0}; i < arr.size(); i++){
+  for(int i{0} ; i < arr.size() ; i++){
     cout << arr.at(i) <<"\n";
   }
 
@@ -123,12 +127,13 @@ También se podría asignar valores a un `std::array` con un for, por ejemplo, s
 ```cpp
 #include <iostream>
 #include <array>
+using namespace std;
 
 int main() {
 
   array<int,100> arr;
 
-  for(int i{0}; i < arr.size(); i++){
+  for(int i{0} ; i < arr.size() ; i++){
     arr.at(i) = i;
   }
 
@@ -140,12 +145,13 @@ int main() {
 ```cpp
 #include <iostream>
 #include <vector>
+using namespace std;
 
 int main() {
 
   vecotr<int> vec{1,3,4,2,5};
 
-  for(int i{0}; i < vec.size(); i++){
+  for(int i{0} ; i < vec.size() ; i++){
     cout << vec.at(i) <<"\n";
   }
 
@@ -159,12 +165,13 @@ También se podrían añadir valores a un `std::vector` con un for, por ejemplo,
 ```cpp
 #include <iostream>
 #include <vector>
+using namespace std;
 
 int main() {
 
   vector<int> vec;
 
-  for(int i{1}; i <= 100; i++){
+  for(int i{1} ; i <= 100 ; i++){
     vec.push_back(2*i);
   }
 
@@ -179,12 +186,13 @@ Imaginemos que queremos sustitur todas las letras `a` de un texto por un `*`.
 ```cpp
 #include <iostream>
 #include <string>
+using namespace std;
 
 int main() {
 
   string palabra{"agasajadas las hadas"};
 
-  for(int i{0}; i < palabra.size(); i++){
+  for(int i{0} ; i < palabra.size() ; i++){
     if(palabra.at(i) == 'a') palabra.at(i) = '*';
   }
 
