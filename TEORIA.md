@@ -1,5 +1,7 @@
 # Índice de Temas
 
+## PROGRAMACIÓN I
+
 ### Tipos de Variables
 
  - [Tipos Simples/Primitivos](teoria/TiposSimples.md#tipossimples)
@@ -24,3 +26,7 @@
 ### Funciones
  - [Funciones sin parámetros](teoria/FunSinParam.md#funconparam)
  - [Funciones con parámetros](teoria/FunConParam.md#funsinparam)
+
+## PROGRAMACIÓN II
+
+- [Programación Orintada a Objetos (POO)](teoria/String.md#string)
