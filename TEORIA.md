@@ -1,6 +1,6 @@
 # Índice de Temas
 
-Tipos de Variables
+### Tipos de Variables
 
  - [Tipos Simples/Primitivos](teoria/TiposSimples.md#tipossimples)
  - [String](teoria/String.md#string)
@@ -20,3 +20,5 @@ Bucles
  - [for](teoria/For.md#for)
    - [for(elem : x)](teoria/ForElem.md#forelem)   
  - [while](teoria/While.md#while)
+
+Funciones
