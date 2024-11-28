@@ -46,5 +46,8 @@
 - [Downcasting](teoria/Polimorfismo3.md#Polimorfismo3)
 
 
+### Plantillas - Templates
+- [Funciones Templatizadas](teoria/Pantillas1.md#plantillas1)
+- [Clases Templatizadas](teoria/Plantillas2.md#plantillas2)
 
  
