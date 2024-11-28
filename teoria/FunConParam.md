@@ -2,7 +2,7 @@
 
 Las funciones con parámetros permiten interactuar con el resto de datos de un programa. Se podría decir que _el flujo_ de una función es:
 
-
+![MensajeEntradaInt](https://github.com/DanielBraun11/Apuntes-Programacion-CPP/blob/main/fotosCPP/funconparam.png)
 
 donde
 
