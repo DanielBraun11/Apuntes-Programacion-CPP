@@ -23,6 +23,7 @@ Por ejemplo:
 
 ```
 #include <iostream>
+using namespace std;
 
 int main() {
   int num;
@@ -45,6 +46,7 @@ Este programa estará dentro del bucle hasta que el usuario introduzca por tecla
 
 ```
 #include <iostream>
+using namespace std;
 
 int main() {
   int num;
