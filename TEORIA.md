@@ -33,3 +33,8 @@
 - [Clases](teoria/Clases.md#clases)
 - [Miembros Públios y Privados](teoria/TiposMiembros.md#tiposmiembros)
 - [Construtor](teoria/Constructor.md#constructor)
+
+### Herencia
+- [Clase Padre y Clases Hijas](teoria/Clases.md#clases)
+
+
