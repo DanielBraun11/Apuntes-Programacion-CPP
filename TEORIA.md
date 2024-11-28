@@ -50,4 +50,8 @@
 - [Funciones Templatizadas](teoria/Plantillas1.md#plantillas1)
 - [Clases Templatizadas](teoria/Plantilla2.md#plantillas2)
 
- 
+
+ ### Sobrecarga de operadores
+- [Sobrecarga de operadores aritméticos](teoria/Sobrecarga1.md#sobrecarga1)
+- [Sobrecarga de operadores lógicos](teoria/Sobrecarga2.md#sobrecarga2)
+- [Sobrecarga de operadores iostream o ostream](teoria/Sobrecarga3.md#sobrecarga3)
