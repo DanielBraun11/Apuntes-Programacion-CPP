@@ -36,7 +36,15 @@
 
 ### Herencia
 - [Clase Padre y Clases Hijas](teoria/Herencia1.md#herencia1)
-- [Constructor/Destructor del hijo y del padre](teoria/Herencia2.md#herenia2)
-- [Herencia pública, protegida y privada](teoria/Herencia3.md#herenccia3)  
+- [Constructor/Destructor del hijo y del padre](teoria/Herencia2.md#herencia2)
+- [Herencia pública, protegida y privada](teoria/Herencia3.md#herencia3)  
 
 
+### Polimorfismo
+- [Funciones virtuales u polimórficas](teoria/Polimorfismo1.md#polimorfismo1)
+- [Funiones virtuales puras y clases abstractas](teoria/Polimorfismo2.md#Polimorfismo2)
+- [Downcasting](teoria/Polimorfismo3.md#Polimorfismo3)
+
+
+
+ 
