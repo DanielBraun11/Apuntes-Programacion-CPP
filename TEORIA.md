@@ -35,6 +35,8 @@
 - [Construtor](teoria/Constructor.md#constructor)
 
 ### Herencia
-- [Clase Padre y Clases Hijas](teoria/Clases.md#clases)
+- [Clase Padre y Clases Hijas](teoria/Herencia1.md#herencia1)
+- [Constructor/Destructor del hijo y del padre](teoria/Herencia2.md#herenia2)
+- [Herencia pública, protegida y privada](teoria/Herencia3.md#herenccia3)  
 
 
