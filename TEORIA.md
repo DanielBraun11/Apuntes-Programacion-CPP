@@ -9,16 +9,16 @@
  - [Struct](teoria/Struct.md#struct)
  - [Set](teoria/Set.md#set)
 
-Entrada y Salida de datos
+### Entrada y Salida de datos
  - [Entrada y Salida](teoria/Entrada&Salida.md#entrada&salida)
 
-Control de flujo
+### Control de flujo
  - [if, if-else, if-else-if-else](teoria/ifelse.md#ifelse)
  - [switch](teoria/switch.md#switch)
 
-Bucles
+### Bucles
  - [for](teoria/For.md#for)
    - [for(elem : x)](teoria/ForElem.md#forelem)   
  - [while](teoria/While.md#while)
 
-Funciones
+### Funciones
