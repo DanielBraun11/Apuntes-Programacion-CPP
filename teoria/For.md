@@ -99,7 +99,7 @@ int main() {
 
 ## Bucle for para recorrer tipos de datos iterables.
 
-Se ha visto que el modo más sencillo de recorrer `string`, `array`, `set`,y `vector` es el bucle [`for(auto elem :tipo_iterable)`](forelem.md). Sin embargo, también se pueden recorrer a través de bucles *for* genéricos, y en ocasión éstos dan más juego.
+Se ha visto que el modo más sencillo de recorrer `string`, `array`, `set`,y `vector` es el bucle [`for(auto elem :tipo_iterable)`](ForElem.md). Sin embargo, también se pueden recorrer a través de bucles *for* genéricos, y en ocasión éstos dan más juego.
 
 **El tipo `set` no se puede recorrer con el *for genérico* debido a que no se puede acceder a sus elementos por índice.**
 
