@@ -22,3 +22,5 @@
  - [while](teoria/While.md#while)
 
 ### Funciones
+ - [Funciones sin parámetros](teoria/FunSinParam.md.md#funconparam)
+ - [Funciones con parámetros](teoria/FunConParam.md#funsinparam)
