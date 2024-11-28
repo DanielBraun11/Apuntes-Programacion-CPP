@@ -18,5 +18,5 @@ Control de flujo
 
 Bucles
  - [for](teoria/For.md#for)
-   - [for-elem](teoria/ForElem.md#forelem)   
+   - [for(elem : x)](teoria/ForElem.md#forelem)   
  - [while](teoria/While.md#while)
