@@ -29,7 +29,7 @@
 
 ### Punteros Inteligentes
  - [Unique Pointers](teoria/UniquePointers.md#uniquepointers)
- - [Shared Pointers](teoria/SharedPointers.md#sharedpointers)
+ - [Shared Pointers](teoria/SharedPointer.md#sharedpointers)
 
    
 ## PROGRAMACIÓN II
