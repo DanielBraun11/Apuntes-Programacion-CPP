@@ -47,7 +47,7 @@
 
 
 ### Plantillas - Templates
-- [Funciones Templatizadas](teoria/Pantillas1.md#plantillas1)
-- [Clases Templatizadas](teoria/Plantillas2.md#plantillas2)
+- [Funciones Templatizadas](teoria/Plantillas1.md#plantillas1)
+- [Clases Templatizadas](teoria/Plantilla2.md#plantillas2)
 
  
